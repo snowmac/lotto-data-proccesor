@@ -1,0 +1,35 @@
+My guess:
+
+WB1 WB2 WB3 WB4 WB5 PB
+41  2   32  34  26  20 -- mode
+56  18  16  19  10  9
+57  1   48  49  42  31
+26  2   7   50  11  32
+28  26  28  28  29  20 -- median
+28  27  28  28  28  20 -- mean
+27  28  28  32  47  48 -- guess based off of all
+
+Output:
+
+"WB1. min: 1, max: 67, mean: 28.301211163770404, median: 28, mode: 41, standard_deviation: 15.940744251741588, "
+"WB2. min: 1, max: 68, mean: 27.126382306477094, median: 26, mode: 2, standard_deviation: 16.446414380270532, "
+"WB3. min: 1, max: 69, mean: 28.12954186413902, median: 28, mode: 32, standard_deviation: 15.971855724696749, "
+"WB4. min: 1, max: 69, mean: 28.00684570826751, median: 28, mode: 34, standard_deviation: 15.66894250494542, "
+"WB5. min: 1, max: 68, mean: 28.24749868351764, median: 29, mode: 26, standard_deviation: 15.91768994952349, "
+"PB. min: 1, max: 42, mean: 20.075829383886255, median: 20, mode: 20, standard_deviation: 11.452266826856116, "
+"ALL. min: 1, max: 69, mean: 27.962295945234334, median: 28, mode: 32, standard_deviation: 15.993542322892925, "
+
+Comparision:
+
+1/13/2016 4 8 19 27 34 10
+
+01/09/2016  32  16  19  57  34  13
+01/06/2016  47   2  63  62  11  17
+01/02/2016  42  15   6   5  29  10
+12/30/2015  12  61  54  38  36  22
+
+Matches:
+1. 2, almost 3.
+2. 1, 2
+3. 1, 1
+4. 0
